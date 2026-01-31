@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Woofer1
+- 👋 Hi, I’m Diego 
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects once i learn how to code properly
