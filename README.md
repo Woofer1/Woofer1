@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Diego 
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects once i learn how to code properly
-- 📫 How to reach me: 
-
-<!---
-Woofer1/Woofer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sofware developer
+I do mostly small projects (freelance work)
+I have over a year of experience in python development as well as Javascript (TS) and Ruby
+my email is diegososaojeda98@gmail.com, i am available every weekday between 8 AM and 6 PM EST
